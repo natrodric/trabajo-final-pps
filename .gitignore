@@ -1,0 +1,14 @@
+# Entornos virtuales
+venv/
+
+# Archivos de entorno
+.env
+
+# Archivos de log o backups
+*.tar.gz
+*.tar.gz.enc
+*.sql
+
+# __pycache__ y similares
+__pycache__/
+*.pyc
